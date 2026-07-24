@@ -48,9 +48,6 @@ MTU = payload size + 28   (20 bytes IP header + 8 bytes ICMP header)
 - 📊 **Test log** — see every tested value, whether it succeeded, and its latency.
 - ☕ **Ko-fi support button** built into the UI.
 
-## 📸 Screenshot
-
-> _Add a screenshot of the app here._
 
 ## 📦 Installation
 
