@@ -1,0 +1,4 @@
+# ATHIOS MTU Test uses only the Python standard library at runtime
+# (tkinter, subprocess, threading, queue, re, webbrowser...).
+# PyInstaller is only needed to build the standalone .exe.
+pyinstaller>=6.0
