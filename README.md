@@ -62,13 +62,6 @@ pip install -r requirements.txt
 python main.py
 ````
 
-### Build your own `.exe`
-
-```bash
-pip install pyinstaller
-pyinstaller --onefile --windowed --icon=main-logo.ico main.py
-```
-
 ## 🛠️ How It Works
 
 1. Binary search runs between payload sizes **1300 and 1500**.
