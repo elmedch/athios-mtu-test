@@ -46,7 +46,7 @@ MTU = payload size + 28   (20 bytes IP header + 8 bytes ICMP header)
 - 🖥️ **Responsive UI** — testing runs on a background thread, so the interface never freezes.
 - 📋 **Copy result** — one click to copy your MTU result.
 - 📊 **Test log** — see every tested value, whether it succeeded, and its latency.
-- ☕ **Ko-fi support button** built into the UI.
+
 
 
 ## 📦 Installation
